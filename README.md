@@ -2,6 +2,8 @@
 ## Project Overview
 The AtliQ Business Insight 360 project leverages Power BI to provide AtliQ Hardware, a global leader in computer and computer accessory sales, with comprehensive insights into their performance across various functions such as Finance, Sales, Supply Chain, Executive, and Marketing. Despite rapid expansion worldwide, AtliQ Hardware has faced challenges, particularly with the recent opening of a store in Latin America. This project aims to tackle those challenges through effective data visualization and analytics.
 
+### LIVE DAHBOARD LINK : https://shorturl.at/SRzF1
+
 ## Key Challenges
 AtliQ Hardware’s global expansion has been marred by several business challenges:
 
